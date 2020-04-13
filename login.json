@@ -1,0 +1,163 @@
+{
+  "staff": [
+    {
+      "Role": "student",
+      "UserId": "abc",
+      "Password": "abc@123"
+    },
+    {
+      "Role": "student",
+      "UserId": "def",
+      "Password": "def@123"
+    },
+    {
+      "Role": "student",
+      "UserId": "ghi",
+      "Password": "ghi@123"
+    },
+    {
+      "Role": "staff",
+      "UserId": "staff1",
+      "Password": "staff1@123"
+    },
+    {
+      "Role": "staff",
+      "UserId": "staff2",
+      "Password": "staff2@123"
+    }
+  ],
+  "students": [
+    {
+      "name": "usha",
+      "class": "first",
+      "section": "c",
+      "phoneNumber": "9908765431",
+      "classTeacher": "anil",
+      "id": 100
+    },
+    {
+      "id": 101,
+      "name": "basha",
+      "class": "fourth",
+      "section": "d",
+      "phoneNumber": "9087654321",
+      "classTeacher": "reshma"
+    },
+    {
+      "name": "banu",
+      "class": "second",
+      "section": "a",
+      "phoneNumber": "1234567890",
+      "classTeacher": "anusha",
+      "id": 104
+    },
+    {
+      "name": "balu",
+      "class": "third",
+      "section": "d",
+      "phoneNumber": "9876543210",
+      "classTeacher": "ramesh",
+      "id": "108"
+    },
+    {
+      "name": "harsha",
+      "class": "first",
+      "section": "c",
+      "phoneNumber": "12345678",
+      "classTeacher": "suresh",
+      "id": "110"
+    },
+    {
+      "name": "harsha",
+      "class": "second",
+      "section": "c",
+      "phoneNumber": "9908654321",
+      "classTeacher": "ramesh",
+      "id": "545"
+    },
+    {
+      "id": "112",
+      "name": "harshitha",
+      "class": "third",
+      "section": "d",
+      "phoneNumber": "9087656785",
+      "classTeacher": "suresh"
+    }
+  ],
+  "Teachers": [
+    {
+      "name": "anil",
+      "qualification": "B.tech",
+      "experience": "2+",
+      "classteacherfor": "fifth"
+    },
+    {
+      "name": "reshma",
+      "qualification": "M.tech",
+      "experience": "3+",
+      "classteacherfor": "second"
+    },
+    {
+      "name": "banu",
+      "qualification": "B.tech",
+      "experience": "2+",
+      "classteacherfor": "sixth"
+    }
+  ],
+  "TimeTable": [
+    {
+      "day": "Monday",
+      "firsthour": "Telugu",
+      "secondhour": "Maths",
+      "thirdhour": "Lunch",
+      "fourthhour": "science",
+      "fifthhour": "Hindi",
+      "sixthhour": "drawing"
+    },
+    {
+      "day": "TuesDay",
+      "firsthour": "English",
+      "secondhour": "Telugu",
+      "thirdhour": "Drawing",
+      "fourthhour": "Lunch",
+      "fifthhour": "Maths",
+      "sixthhour": "Science"
+    },
+    {
+      "day": "WednesDay",
+      "firsthour": "Maths",
+      "secondhour": "English",
+      "thirdhour": "Lunch",
+      "fourthhour": "science",
+      "fifthhour": "Telugu",
+      "sixthhour": "Science"
+    },
+    {
+      "day": "ThursDay",
+      "firsthour": "Drawing",
+      "secondhour": "Social",
+      "thirdhour": "Lunch",
+      "fourthhour": "Telugu",
+      "fifthhour": "Science",
+      "sixthhour": "drawing"
+    },
+    {
+      "day": "FriDay",
+      "firsthour": "Hindi",
+      "secondhour": "Maths",
+      "thirdhour": "Telugu",
+      "fourthhour": "Lunch",
+      "fifthhour": "Hindi",
+      "sixthhour": "drawing"
+    },
+    {
+      "day": "SaturDay",
+      "firsthour": "Science",
+      "secondhour": "Telugu",
+      "thirdhour": "Lunch",
+      "fourthhour": "science",
+      "fifthhour": "Hindi",
+      "sixthhour": "drawing"
+    }
+  ]
+}
